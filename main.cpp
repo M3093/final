@@ -10,7 +10,8 @@ using namespace std;
   int consumo;
  
 
-int main() //Cadena de string, es una secuemcia de caracteres// 
+int main() 
+//Cadena de string, es una secuemcia de caracteres// 
 {
     string luz1[] = {"cero"};
     string camara[] = {"once"};
